@@ -4,7 +4,8 @@ Fantastic news, the reverse engineering course is officially moving to [TryHackM
 Check my profile for the rooms I create, because there's a review process it's probably going to be a bit. I'll update this message when the first room is out!
 
 https://tryhackme.com/p/Z0F</br>
-https://beginners.re/
+https://habr.com/en/articles/548344/</br>
+https://beginners.re/</br>
 
 ## Read [BeforeYouBegin](@BeforeYouBegin.md)
 
